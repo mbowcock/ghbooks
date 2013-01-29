@@ -1,0 +1,6 @@
+{
+	"books": [
+		{"title":"Developing Backbone.js Applications", "url":"https://github.com/addyosmani/backbone-fundamentals", "description":"Backbone.js for beginners and advanced user alike"}, 
+		{"title":"The Little MongoDB Book", "url":"https://github.com/karlseguin/the-little-mongo-book", "description":""}
+	]
+}
